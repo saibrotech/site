@@ -88,33 +88,45 @@ sections:
 
   - type: members.html
     section_id: members
-    title: Our Crew!
+    title: Nossa Equipe!
     background_style: bg-info text-white
     members:
-      - title: Christina M. Aponte
-        text: Singer and Songwriter
-        image: assets/img/members/person1.jpg
-        url: '#'
-      - title: Gary D. Stevens
-        text: Bass guitar.
-        image: assets/img/members/person2.jpg
-        url: '#'
-      - title: Devon J. Fletcher
-        text: Lead guitar.
-        image: assets/img/members/person3.jpg
-        url: '#'
-      - title: Todd E. Anderson
-        text: Drums, percussion.
-        image: assets/img/members/person5.jpg
-        url: '#'
-      - title: Daniel T. Riley
-        text: Musician, songwriter, producer.
-        image: assets/img/members/person6.jpg
-        url: '#'
-      - title: Ella P. Walter
-        text: PR.
-        image: assets/img/members/person7.jpg
-        url: '#'
+      - title: Andre Porto Leal Piantino
+        text: Líder Técnico
+        image: https://media-exp1.licdn.com/dms/image/C4D03AQEjfjZKeZsd8A/profile-displayphoto-shrink_200_200/0/1586881420971?e=1634169600&v=beta&t=jg5sjlVdCDGr2QPgvowZKnyokSSGDP77Q1-OGGPGItM
+        icon_linkedin: fa-linkedin
+        icon_type: fab
+        url_linkedin: 'https://www.linkedin.com/in/andre-porto-leal-piantino/'
+        icon_github: fa-github
+        icon_type: fab
+        url_github: https://github.com/piantino
+      - title: Fernanda Kuhnen Hermenegildo
+        text: Desenvolvedora
+        image: https://media-exp1.licdn.com/dms/image/C4E03AQGN6-Rw1e5OLA/profile-displayphoto-shrink_200_200/0/1517048521821?e=1634169600&v=beta&t=5epIVQGuf8DY05mZE9GsT-wxv87lpVhPAQdgciwlCKk
+        icon_linkedin: fa-linkedin
+        icon_type: fab
+        url_linkedin: 'https://www.linkedin.com/in/fernanda-kuhnen-hermenegildo-2747b4a1/'
+        icon_github: fa-github
+        icon_type: fab
+        url_github: 'https://github.com/fekuhnen'
+      - title: Gustavo Lucas Valente
+        text: Designer e Desenvolvedor Front-end
+        image: https://media-exp1.licdn.com/dms/image/C5603AQGIm1ssJ5lUMw/profile-displayphoto-shrink_200_200/0/1516881149265?e=1634169600&v=beta&t=5w_qXSL5_mfwBjlIkO49OEJbpPuE3s9dYEVUATQPEng
+        icon_linkedin: fa-linkedin
+        icon_type: fab
+        url_linkedin: 'https://www.linkedin.com/in/gutivalente/'
+        icon_github: fa-github
+        icon_type: fab
+        url_github: 'https://github.com/gutivalente'
+      - title: Nicole Buitoni
+        text: Desenvolvedora
+        image: https://media-exp1.licdn.com/dms/image/C4E03AQFwMuylWq2JWA/profile-displayphoto-shrink_200_200/0/1551143523060?e=1634169600&v=beta&t=mPAXDc3heXGGSy90EOS67eR72_RW4PXyuYBwbRsCBKo
+        icon_linkedin: fa-linkedin
+        icon_type: fab
+        url_linkedin: 'https://www.linkedin.com/in/nicole-buitoni/'
+        icon_github: fa-github
+        icon_type: fab
+        url_github: https://github.com/Nibuitoni
 
   - type: timeline.html
     section_id: timeline
