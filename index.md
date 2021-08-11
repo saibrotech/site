@@ -45,6 +45,30 @@ sections:
         text: Some not-so long text here.
         icon: fa-heart
 
+  - type: culture.html
+    title: Nossa cultura
+    items:
+      - title: Quem somos
+        text: Somos um laboratório que agrega valor em negócios utilizando tecnologia como meio e gera profissionais de TI capacitados, tanto tecnicamente como gerencialmente, possibilitando a inserção de profissionais nessa área.
+        icon: 1.jpg
+        url: '#'
+      - title: Como trabalhamos
+        text: Somos uma equipe engajada e comprometida que utiliza a mentalidade ágil. As decisões são tomadas em conjunto e o trabalho é realizado de maneira colaborativa,  buscando sempre otimizar o rendimento da equipe. Buscamos excelência e satisfação do cliente, realizando pequenas entregas para potencializar os resultados. Prezamos pelo respeito e profissionalismo.
+        icon: 2.jpg
+        url: '#'
+      - title: Instrumentos
+        text: Valorizamos relações não-tóxicas, organização, discussão de metas, reunião diária, revisão de código, entrega semanal, retrospectivas mensais.
+        icon: 3.jpg
+        url: '#'
+      - title: O que fazemos
+        text: Desenvolvemos softwares personalizados de maneira flexível. Capacitamos nossa equipe na prática, com projetos reais para que cada um desenvolva mais autonomia, avaliando o que funciona ou não funciona.
+        icon: 4.jpg
+        url: '#'
+      - title: Objetivos
+        text: Ser uma equipe dinâmica que permita aprendizado rápido de cada um dos colaboradores, através da troca de conhecimento e práticas em desenvolvimento de software. Atender projetos nacionais e internacionais. Ter a capacidade de criar produtos inovadores e com qualidade.
+        icon: 5.jpg
+        url: '#'
+
   - type: portfolio.html
     # this section has always ID 'portfolio'
     #section_id: portfolio
