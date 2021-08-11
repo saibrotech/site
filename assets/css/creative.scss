@@ -1,6 +1,3 @@
----
----
-
 @charset "UTF-8";
 /*!
 * Start Bootstrap - Creative v6.0.4 (https://startbootstrap.com/theme/creative)
@@ -10022,6 +10019,17 @@ hr.light {
   font-family: "Merriweather Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-weight: 700;
   color: #212529;
+  img {
+    width: 143px;
+    position: relative;
+    &.logo-white {
+      visibility: hidden;
+    }
+    &.logo-color {
+      visibility: visible;
+      left: -146px;
+    }
+  }
 }
 #mainNav .navbar-nav .nav-item .nav-link {
   color: #6c757d;
@@ -10043,6 +10051,12 @@ hr.light {
   }
   #mainNav .navbar-brand {
     color: rgba(255, 255, 255, 0.7);
+    img.logo-white {
+      visibility: visible !important;
+    }
+    img.logo-color {
+      visibility: hidden !important;
+    }
   }
   #mainNav .navbar-brand:hover {
     color: #fff;
@@ -10063,6 +10077,12 @@ hr.light {
   }
   #mainNav.navbar-scrolled .navbar-brand {
     color: #212529;
+    img.logo-white {
+      visibility: hidden !important;
+    }
+    img.logo-color {
+      visibility: visible !important;
+    }
   }
   #mainNav.navbar-scrolled .navbar-brand:hover {
     color: #f4623a;
