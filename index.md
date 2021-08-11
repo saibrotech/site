@@ -151,5 +151,9 @@ sections:
       icon: fa-linkedin
       icon_type: fab
       url: https://www.linkedin.com/company/saibrotech
+    - title: Github
+      icon: fa-github
+      icon_type: fab
+      url: https://github.com/saibrotech
 
 ---
