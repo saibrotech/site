@@ -11,6 +11,12 @@ saibro.tech court
 
 `bundle exec jekyll serve`
 
+## rvm no linux 
+
+1 - `/bin/bash --login`
+2 - `rvm use 2.6.6`
+3 - `rvm get stable --auto-dotfiles`
+
 # Creative Theme for Jekyll
 
 A Jekyll implementation of the [Creative Theme](https://startbootstrap.com/theme/creative/) template by [Start Bootstrap](https://startbootstrap.com).
