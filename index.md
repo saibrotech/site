@@ -175,23 +175,20 @@ sections:
 
   - type: contact.html
     section_id: contacts
-    title: Let's Get In Touch!
+    title: Nossos contatos!
     text: >-
-      Ready to start your next project with us? Give us a call or send us an email
-      and we will get back to you as soon as possible!
+      Quer começar o seu projeto conosco? Nos envie um e-mail ou entre em contato através das nossas redes sociais.
     actions:
-    - title: +1 (202) 555-014
-      icon: fa-phone
     - title: E-Mail
       icon: fa-envelope
-      url: mailto:contact@yourwebsite.com
-    - title: Twitter
-      icon: fa-twitter
+      url: financeiro@saibro.tech
+    - title: Linkedin
+      icon: fa-linkedin
       icon_type: fab
-      url: '#'
-    - title: Facebook
-      icon: fa-facebook
+      url: https://www.linkedin.com/company/saibrotech
+    - title: Github
+      icon: fa-github
       icon_type: fab
-      url: '#'
+      url: https://github.com/saibrotech
 
 ---
