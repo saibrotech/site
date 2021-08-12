@@ -23,27 +23,29 @@ sections:
   - type: services.html
     section_id: servicos
     #background_style: bg-info
-    title: At Your Service
+    title: Serviços
     services:
-      - title: Sturdy Templates
-        text: Our templates are updated regularly so they don't break.
-        icon: fa-gem text-info
-        url: https://startbootstrap.com/
-      - title: Ready to Ship
-        text: You can use this theme as is, or you can make changes!
-        icon: fa-paper-plane
-      - title: Up to Date
-        text: We update dependencies to keep things fresh.
-        icon: fa-laptop-code
-      - title: Made with Love
-        text: You have to make your websites with love these days!
-        icon: fa-heart
-      - title: Other 1
-        text: Some not-so long text here.
-        icon: fa-heart
-      - title: Other 2
-        text: Some not-so long text here.
-        icon: fa-heart
+      - title: Front-end
+        text: Interfaces ricas com Angular.
+        icon: fa-angular
+      - title: Back-end
+        text: Python com DJango e Java com Spring e EE.
+        icon: fa-python
+      - title: Protótipos
+        text: De alta ou baixa fidelidade com Figma.
+        icon: fa-figma
+      - title: Design
+        text: Criação de logotipos e interfaces.
+        icon: fa-pencil-ruler
+        icon_type: fas
+      - title: Internacionalização
+        text: I18n de softwares para inglês, português, espanhol e italiano.
+        icon: fa-globe
+        icon_type: fas
+      - title: Automatização
+        text: Testes e DevOps.
+        icon: fa-robot
+        icon_type: fas
 
   - type: culture.html
     section_id: cultura
