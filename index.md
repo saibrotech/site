@@ -6,12 +6,12 @@ header:
     Além de jogar tênis nas horas vagas!
   action: # action button is optional
     label: Find Out More
-    url: '#about'
+    url: '#sobre'
 
 
 sections:
   - type: call-to-action.html
-    section_id: about
+    section_id: sobre
     background_style: bg-primary
     title: We've got what you need!
     text: Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!
@@ -21,7 +21,7 @@ sections:
         class: btn-light
 
   - type: services.html
-    section_id: services
+    section_id: servicos
     #background_style: bg-info
     title: At Your Service
     services:
@@ -46,6 +46,7 @@ sections:
         icon: fa-heart
 
   - type: culture.html
+    section_id: cultura
     title: Nossa cultura
     items:
       - title: Quem somos
@@ -111,7 +112,7 @@ sections:
         class: btn-light
 
   - type: members.html
-    section_id: members
+    section_id: membros
     title: Nossa Equipe!
     background_style: bg-info text-white
     members:
@@ -153,7 +154,7 @@ sections:
         url_github: https://github.com/Nibuitoni
 
   - type: timeline.html
-    section_id: timeline
+    section_id: historia
     title: Major Achievements!
     background_style: bg-dark text-primary
     last_image: assets/img/timeline-end.png
@@ -174,7 +175,8 @@ sections:
           and future plans to them. As a result , interested people joined us!
 
   - type: contact.html
-    section_id: contacts
+
+    section_id: contatos
     title: Nossos contatos!
     text: >-
       Quer começar o seu projeto conosco? Nos envie um e-mail ou entre em contato através das nossas redes sociais.
