@@ -1,8 +1,8 @@
 # Site settings
 title: SaibroTech
 description: > # this means to ignore newlines until "baseurl:"
-baseurl: "site" # the subpath of your site, e.g. /blog/
-url: "https://saibrotech.github.io/site/" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://www.saibro.tech" # the base hostname & protocol for your site
 author: Copyright &copy; 2019 - Start Bootstrap
 lang: pt_BR
 
