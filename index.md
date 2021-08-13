@@ -5,7 +5,7 @@ header:
   text: >
     Além de jogar tênis nas horas vagas!
   action: # action button is optional
-    label: Find Out More
+    label: Saiba Mais
     url: '#sobre'
 
 
@@ -13,11 +13,11 @@ sections:
   - type: call-to-action.html
     section_id: sobre
     background_style: bg-primary
-    title: We've got what you need!
-    text: Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!
+    title: Construimos a solução que você precisa!
+    text: Nós nos mantemos atualizados e buscamos realizar entregas que proporcionem um excelente desempenho para os usuários! Somos uma equipe que fica feliz com o sucesso de nossos clientes. 
     actions:
-      - title: Get Started!
-        url: '#page-top'
+      - title: O que desenvolvemos
+        url: '#servicos'
         class: btn-light
 
   - type: services.html
