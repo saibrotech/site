@@ -13,7 +13,7 @@ sections:
   - type: call-to-action.html
     section_id: sobre
     background_style: bg-primary
-    title: Construimos a solução que você precisa!
+    title: Construímos a solução que você precisa!
     text: Nós nos mantemos atualizados e buscamos realizar entregas que proporcionem um excelente desempenho para os usuários! Somos uma equipe que fica feliz com o sucesso de nossos clientes. 
     actions:
       - title: O que desenvolvemos
@@ -47,38 +47,38 @@ sections:
         icon: fa-robot
         icon_type: fas
 
-  - type: portfolio.html
-    # this section has always ID 'portfolio'
-    #section_id: portfolio
-    #background_style: bg-dark
-    projects:
-      - title: Project 1
-        text: This is a very short project description.
-        # the images are located in:
-        # img/portfolio/fullsize
-        # img/portfolio/thumbnails
-        icon: 1.jpg
-        url: '#'
-      - title: Project 2
-        text: This is a very short project description.
-        icon: 2.jpg
-        url: '#'
-      - title: Project 3
-        text: This is a very short project description.
-        icon: 3.jpg
-        url: '#'
-      - title: Project 4
-        text: This is a very short project description.
-        icon: 4.jpg
-        url: '#'
-      - title: Project 5
-        text: This is a very short project description.
-        icon: 5.jpg
-        url: '#'
-      - title: Project 6
-        text: This is a very short project description.
-        icon: 6.jpg
-        url: '#'
+  # - type: portfolio.html
+  #   # this section has always ID 'portfolio'
+  #   #section_id: portfolio
+  #   #background_style: bg-dark
+  #   projects:
+  #     - title: Project 1
+  #       text: This is a very short project description.
+  #       # the images are located in:
+  #       # img/portfolio/fullsize
+  #       # img/portfolio/thumbnails
+  #       icon: 1.jpg
+  #       url: '#'
+  #     - title: Project 2
+  #       text: This is a very short project description.
+  #       icon: 2.jpg
+  #       url: '#'
+  #     - title: Project 3
+  #       text: This is a very short project description.
+  #       icon: 3.jpg
+  #       url: '#'
+  #     - title: Project 4
+  #       text: This is a very short project description.
+  #       icon: 4.jpg
+  #       url: '#'
+  #     - title: Project 5
+  #       text: This is a very short project description.
+  #       icon: 5.jpg
+  #       url: '#'
+  #     - title: Project 6
+  #       text: This is a very short project description.
+  #       icon: 6.jpg
+  #       url: '#'
 
   - type: culture.html
     section_id: cultura
@@ -188,7 +188,7 @@ sections:
     actions:
     - title: E-Mail
       icon: fa-envelope
-      url: financeiro@saibro.tech
+      url: mailto://financeiro@saibro.tech
     - title: Linkedin
       icon: fa-linkedin
       icon_type: fab
