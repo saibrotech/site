@@ -13,7 +13,7 @@ sections:
   - type: call-to-action.html
     section_id: sobre
     background_style: bg-primary
-    title: Construimos a solução que você precisa!
+    title: Construímos a solução que você precisa!
     text: Nós nos mantemos atualizados e buscamos realizar entregas que proporcionem um excelente desempenho para os usuários! Somos uma equipe que fica feliz com o sucesso de nossos clientes. 
     actions:
       - title: O que desenvolvemos
@@ -47,38 +47,38 @@ sections:
         icon: fa-robot
         icon_type: fas
 
-  - type: portfolio.html
-    # this section has always ID 'portfolio'
-    #section_id: portfolio
-    #background_style: bg-dark
-    projects:
-      - title: Project 1
-        text: This is a very short project description.
-        # the images are located in:
-        # img/portfolio/fullsize
-        # img/portfolio/thumbnails
-        icon: 1.jpg
-        url: '#'
-      - title: Project 2
-        text: This is a very short project description.
-        icon: 2.jpg
-        url: '#'
-      - title: Project 3
-        text: This is a very short project description.
-        icon: 3.jpg
-        url: '#'
-      - title: Project 4
-        text: This is a very short project description.
-        icon: 4.jpg
-        url: '#'
-      - title: Project 5
-        text: This is a very short project description.
-        icon: 5.jpg
-        url: '#'
-      - title: Project 6
-        text: This is a very short project description.
-        icon: 6.jpg
-        url: '#'
+  # - type: portfolio.html
+  #   # this section has always ID 'portfolio'
+  #   #section_id: portfolio
+  #   #background_style: bg-dark
+  #   projects:
+  #     - title: Project 1
+  #       text: This is a very short project description.
+  #       # the images are located in:
+  #       # img/portfolio/fullsize
+  #       # img/portfolio/thumbnails
+  #       icon: 1.jpg
+  #       url: '#'
+  #     - title: Project 2
+  #       text: This is a very short project description.
+  #       icon: 2.jpg
+  #       url: '#'
+  #     - title: Project 3
+  #       text: This is a very short project description.
+  #       icon: 3.jpg
+  #       url: '#'
+  #     - title: Project 4
+  #       text: This is a very short project description.
+  #       icon: 4.jpg
+  #       url: '#'
+  #     - title: Project 5
+  #       text: This is a very short project description.
+  #       icon: 5.jpg
+  #       url: '#'
+  #     - title: Project 6
+  #       text: This is a very short project description.
+  #       icon: 6.jpg
+  #       url: '#'
 
   - type: culture.html
     section_id: cultura
@@ -123,7 +123,7 @@ sections:
     members:
       - title: Andre Porto Leal Piantino
         text: Líder Técnico
-        image: https://media-exp1.licdn.com/dms/image/C4D03AQEjfjZKeZsd8A/profile-displayphoto-shrink_200_200/0/1586881420971?e=1634169600&v=beta&t=jg5sjlVdCDGr2QPgvowZKnyokSSGDP77Q1-OGGPGItM
+        image: assets/img/members/andre.jpg
         icon_linkedin: fa-linkedin
         icon_type: fab
         url_linkedin: 'https://www.linkedin.com/in/andre-porto-leal-piantino/'
@@ -132,7 +132,7 @@ sections:
         url_github: https://github.com/piantino
       - title: Fernanda Kuhnen Hermenegildo
         text: Desenvolvedora
-        image: https://media-exp1.licdn.com/dms/image/C4E03AQGN6-Rw1e5OLA/profile-displayphoto-shrink_200_200/0/1517048521821?e=1634169600&v=beta&t=5epIVQGuf8DY05mZE9GsT-wxv87lpVhPAQdgciwlCKk
+        image: assets/img/members/fernanda.jpg
         icon_linkedin: fa-linkedin
         icon_type: fab
         url_linkedin: 'https://www.linkedin.com/in/fernanda-kuhnen-hermenegildo-2747b4a1/'
@@ -141,7 +141,7 @@ sections:
         url_github: 'https://github.com/fekuhnen'
       - title: Gustavo Lucas Valente
         text: Designer e Desenvolvedor Front-end
-        image: https://media-exp1.licdn.com/dms/image/C5603AQGIm1ssJ5lUMw/profile-displayphoto-shrink_200_200/0/1516881149265?e=1634169600&v=beta&t=5w_qXSL5_mfwBjlIkO49OEJbpPuE3s9dYEVUATQPEng
+        image: assets/img/members/gustavo.jpg
         icon_linkedin: fa-linkedin
         icon_type: fab
         url_linkedin: 'https://www.linkedin.com/in/gutivalente/'
@@ -150,7 +150,7 @@ sections:
         url_github: 'https://github.com/gutivalente'
       - title: Nicole Buitoni
         text: Desenvolvedora
-        image: https://media-exp1.licdn.com/dms/image/C4E03AQFwMuylWq2JWA/profile-displayphoto-shrink_200_200/0/1551143523060?e=1634169600&v=beta&t=mPAXDc3heXGGSy90EOS67eR72_RW4PXyuYBwbRsCBKo
+        image: assets/img/members/nicole.jpg
         icon_linkedin: fa-linkedin
         icon_type: fab
         url_linkedin: 'https://www.linkedin.com/in/nicole-buitoni/'
@@ -188,7 +188,7 @@ sections:
     actions:
     - title: E-Mail
       icon: fa-envelope
-      url: financeiro@saibro.tech
+      url: mailto://financeiro@saibro.tech
     - title: Linkedin
       icon: fa-linkedin
       icon_type: fab
