@@ -86,27 +86,14 @@ sections:
     title: Nossa cultura
     items:
       - title: Quem somos
-        text: Somos um laboratório que agrega valor em negócios utilizando tecnologia como meio e gera profissionais de TI capacitados, tanto tecnicamente como gerencialmente, possibilitando a inserção de profissionais nessa área.
-        icon: 1.jpg
-        url: '#'
+        text: Agregamos valor em negócios utilizando tecnologia como meio.
+        icon: quem-somos.jpg
       - title: Como trabalhamos
-        text: Somos uma equipe engajada e comprometida que utiliza a mentalidade ágil. As decisões são tomadas em conjunto e o trabalho é realizado de maneira colaborativa,  buscando sempre otimizar o rendimento da equipe. Buscamos excelência e satisfação do cliente, realizando pequenas entregas para potencializar os resultados. Prezamos pelo respeito e profissionalismo.
-        icon: 2.jpg
-        url: '#'
-      - title: Instrumentos
-        text: Valorizamos relações não-tóxicas, organização, discussão de metas, reunião diária, revisão de código, entrega semanal, retrospectivas mensais.
-        icon: 3.jpg
-        url: '#'
-      - title: O que fazemos
-        text: Desenvolvemos softwares personalizados de maneira flexível. Capacitamos nossa equipe na prática, com projetos reais para que cada um desenvolva mais autonomia, avaliando o que funciona ou não funciona.
-        icon: 4.jpg
-        url: '#'
-      - title: Objetivos
-        text: Ser uma equipe dinâmica que permita aprendizado rápido de cada um dos colaboradores, através da troca de conhecimento e práticas em desenvolvimento de software. Atender projetos nacionais e internacionais. Ter a capacidade de criar produtos inovadores e com qualidade.
-        icon: 5.jpg
-        url: '#'
-
-
+        text: Através da mentalidade ágil, tomamos decisões em conjunto e de maneira colaborativa, buscando aumentar o rendimento da equipe.
+        icon: como-trabalhamos.jpg
+      - title: Modelo de trabalho
+        text: Valorizamos relações não-tóxicas, organização, discussão de metas, reunião diária, revisão de código, entrega semanal e retrospectivas mensais.
+        icon: modelo-de-trabalho.jpg
 
   # - type: aside.html
   #   section_id: aside
