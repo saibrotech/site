@@ -89,10 +89,10 @@ sections:
         text: Agregamos valor em negócios utilizando tecnologia como meio.
         icon: quem-somos.jpg
       - title: Como trabalhamos
-        text: Através da mentalidade ágil, tomamos decisões em conjunto e de maneira colaborativa, buscando aumentar o rendimento da equipe.
+        text: Através da mentalidade ágil, tomamos decisões em conjunto e buscando aumentar o rendimento da equipe.
         icon: como-trabalhamos.jpg
       - title: Modelo de trabalho
-        text: Valorizamos relações não-tóxicas, organização, discussão de metas, reunião diária, revisão de código, entrega semanal e retrospectivas mensais.
+        text: Valorizamos relações não-tóxicas, organização, discussão de metas, reunião diária, revisão de código e retrospectivas.
         icon: modelo-de-trabalho.jpg
 
   # - type: aside.html
