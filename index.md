@@ -123,7 +123,7 @@ sections:
     members:
       - title: Andre Porto Leal Piantino
         text: Líder Técnico
-        image: https://media-exp1.licdn.com/dms/image/C4D03AQEjfjZKeZsd8A/profile-displayphoto-shrink_200_200/0/1586881420971?e=1634169600&v=beta&t=jg5sjlVdCDGr2QPgvowZKnyokSSGDP77Q1-OGGPGItM
+        image: assets/img/members/andre.jpg
         icon_linkedin: fa-linkedin
         icon_type: fab
         url_linkedin: 'https://www.linkedin.com/in/andre-porto-leal-piantino/'
@@ -132,7 +132,7 @@ sections:
         url_github: https://github.com/piantino
       - title: Fernanda Kuhnen Hermenegildo
         text: Desenvolvedora
-        image: https://media-exp1.licdn.com/dms/image/C4E03AQGN6-Rw1e5OLA/profile-displayphoto-shrink_200_200/0/1517048521821?e=1634169600&v=beta&t=5epIVQGuf8DY05mZE9GsT-wxv87lpVhPAQdgciwlCKk
+        image: assets/img/members/fernanda.jpg
         icon_linkedin: fa-linkedin
         icon_type: fab
         url_linkedin: 'https://www.linkedin.com/in/fernanda-kuhnen-hermenegildo-2747b4a1/'
@@ -141,7 +141,7 @@ sections:
         url_github: 'https://github.com/fekuhnen'
       - title: Gustavo Lucas Valente
         text: Designer e Desenvolvedor Front-end
-        image: https://media-exp1.licdn.com/dms/image/C5603AQGIm1ssJ5lUMw/profile-displayphoto-shrink_200_200/0/1516881149265?e=1634169600&v=beta&t=5w_qXSL5_mfwBjlIkO49OEJbpPuE3s9dYEVUATQPEng
+        image: assets/img/members/gustavo.jpg
         icon_linkedin: fa-linkedin
         icon_type: fab
         url_linkedin: 'https://www.linkedin.com/in/gutivalente/'
@@ -150,7 +150,7 @@ sections:
         url_github: 'https://github.com/gutivalente'
       - title: Nicole Buitoni
         text: Desenvolvedora
-        image: https://media-exp1.licdn.com/dms/image/C4E03AQFwMuylWq2JWA/profile-displayphoto-shrink_200_200/0/1551143523060?e=1634169600&v=beta&t=mPAXDc3heXGGSy90EOS67eR72_RW4PXyuYBwbRsCBKo
+        image: assets/img/members/nicole.jpg
         icon_linkedin: fa-linkedin
         icon_type: fab
         url_linkedin: 'https://www.linkedin.com/in/nicole-buitoni/'
