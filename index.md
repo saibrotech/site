@@ -150,7 +150,7 @@ sections:
         url_github: 'https://github.com/gutivalente'
       - title: Nicole Buitoni
         text: Desenvolvedora
-        image: https://media-exp1.licdn.com/dms/image/C4E03AQFwMuylWq2JWA/profile-displayphoto-shrink_200_200/0/1551143523060?e=1634169600&v=beta&t=mPAXDc3heXGGSy90EOS67eR72_RW4PXyuYBwbRsCBKo
+        image: https://media-exp1.licdn.com/dms/image/C4E03AQHYlry0kRcVAA/profile-displayphoto-shrink_200_200/0/1628721029658?e=1634774400&v=beta&t=ecdZi4wB7jDJBsoOwsK_Y40WFtVBxKPctO-37jjRzew
         icon_linkedin: fa-linkedin
         icon_type: fab
         url_linkedin: 'https://www.linkedin.com/in/nicole-buitoni/'
