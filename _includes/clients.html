@@ -1,0 +1,11 @@
+<div class="page-section" id="{{ section.section_id }}">
+  <div class="container-fluid p-0">
+    <div class="row no-gutters client-list">
+      {% for client in section.clients %}
+      <div class="col-lg-4 col-sm-6 client-content">
+        <img class="img-fluid" src="assets/img/clients/{{ client.icon }}" alt="">
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>

@@ -66,6 +66,14 @@ sections:
         icon: mitra.jpg
         url: '#'
 
+  - type: clients.html
+    section_id: clientes
+    clients:
+      - title: Volare
+        icon: volare-logo.png
+      - title: LPA UFSM
+        icon: lpa-logo.jpg
+
   - type: culture.html
     section_id: cultura
     background_style: bg-dark text-white
