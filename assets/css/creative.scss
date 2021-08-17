@@ -10160,11 +10160,11 @@ header.masthead h1 {
   text-align: center;
   opacity: 0;
   color: #fff;
-  text-shadow: 0 3px 10px black;
-  background: rgba(128, 48, 16, 0.7);
+  background: rgba(255, 102, 0, 0.8);
   transition: opacity 0.25s ease;
   text-align: center;
   cursor: pointer;
+  padding: 10px 20px;
 }
 #cultura .container-fluid .portfolio-box .portfolio-box-caption, #cultura .container-sm .portfolio-box .portfolio-box-caption, #cultura .container-md .portfolio-box .portfolio-box-caption, #cultura .container-lg .portfolio-box .portfolio-box-caption, #cultura .container-xl .portfolio-box .portfolio-box-caption {
   display: flex;
@@ -10179,6 +10179,7 @@ header.masthead h1 {
   color: #fff;
   background: rgba(0, 0, 0, 0.75);
   text-align: center;
+  padding: 10px 20px;
 }
 #portfolio .container-fluid .portfolio-box .portfolio-box-caption .project-category, #portfolio .container-sm .portfolio-box .portfolio-box-caption .project-category, #portfolio .container-md .portfolio-box .portfolio-box-caption .project-category, #portfolio .container-lg .portfolio-box .portfolio-box-caption .project-category, #portfolio .container-xl .portfolio-box .portfolio-box-caption .project-category,
 #cultura .container-fluid .portfolio-box .portfolio-box-caption .project-category, #cultura .container-sm .portfolio-box .portfolio-box-caption .project-category, #cultura .container-md .portfolio-box .portfolio-box-caption .project-category, #cultura .container-lg .portfolio-box .portfolio-box-caption .project-category, #cultura .container-xl .portfolio-box .portfolio-box-caption .project-category {
@@ -10190,7 +10191,6 @@ header.masthead h1 {
 #portfolio .container-fluid .portfolio-box .portfolio-box-caption .project-name, #portfolio .container-sm .portfolio-box .portfolio-box-caption .project-name, #portfolio .container-md .portfolio-box .portfolio-box-caption .project-name, #portfolio .container-lg .portfolio-box .portfolio-box-caption .project-name, #portfolio .container-xl .portfolio-box .portfolio-box-caption .project-name,
 #cultura .container-fluid .portfolio-box .portfolio-box-caption .project-name, #cultura .container-sm .portfolio-box .portfolio-box-caption .project-name, #cultura .container-md .portfolio-box .portfolio-box-caption .project-name, #cultura .container-lg .portfolio-box .portfolio-box-caption .project-name, #cultura .container-xl .portfolio-box .portfolio-box-caption .project-name {
   font-size: 1rem;
-  padding: 10px 20px;
 }
 #portfolio .container-fluid .portfolio-box:hover .portfolio-box-caption, #portfolio .container-sm .portfolio-box:hover .portfolio-box-caption, #portfolio .container-md .portfolio-box:hover .portfolio-box-caption, #portfolio .container-lg .portfolio-box:hover .portfolio-box-caption, #portfolio .container-xl .portfolio-box:hover .portfolio-box-caption,
 #cultura .container-fluid .portfolio-box:hover .portfolio-box-caption, #cultura .container-sm .portfolio-box:hover .portfolio-box-caption, #cultura .container-md .portfolio-box:hover .portfolio-box-caption, #cultura .container-lg .portfolio-box:hover .portfolio-box-caption, #cultura .container-xl .portfolio-box:hover .portfolio-box-caption {

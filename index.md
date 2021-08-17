@@ -47,38 +47,23 @@ sections:
         icon: fa-robot
         icon_type: fas
 
-  # - type: portfolio.html
-  #   # this section has always ID 'portfolio'
-  #   #section_id: portfolio
-  #   #background_style: bg-dark
-  #   projects:
-  #     - title: Project 1
-  #       text: This is a very short project description.
-  #       # the images are located in:
-  #       # img/portfolio/fullsize
-  #       # img/portfolio/thumbnails
-  #       icon: 1.jpg
-  #       url: '#'
-  #     - title: Project 2
-  #       text: This is a very short project description.
-  #       icon: 2.jpg
-  #       url: '#'
-  #     - title: Project 3
-  #       text: This is a very short project description.
-  #       icon: 3.jpg
-  #       url: '#'
-  #     - title: Project 4
-  #       text: This is a very short project description.
-  #       icon: 4.jpg
-  #       url: '#'
-  #     - title: Project 5
-  #       text: This is a very short project description.
-  #       icon: 5.jpg
-  #       url: '#'
-  #     - title: Project 6
-  #       text: This is a very short project description.
-  #       icon: 6.jpg
-  #       url: '#'
+  - type: portfolio.html
+    # this section has always ID 'portfolio'
+    #section_id: portfolio
+    #background_style: bg-dark
+    projects:
+      - title: Codex Architectus
+        text: Repositório de códigos para arquitetura.
+        icon: codexarch.jpg
+        url: '#'
+      - title: Percepção de Espaços Públicos
+        text: Site de pesquisa na área de arquitetura.
+        icon: lpa.jpg
+        url: '#'
+      - title: Mitra Fiber Design
+        text: Rede de fibra ótica.
+        icon: mitra.jpg
+        url: '#'
 
   - type: culture.html
     section_id: cultura
