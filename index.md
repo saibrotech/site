@@ -51,6 +51,7 @@ sections:
     # this section has always ID 'portfolio'
     #section_id: portfolio
     #background_style: bg-dark
+    title: Portfólio
     projects:
       - title: Codex Architectus
         text: Repositório de códigos para arquitetura.
