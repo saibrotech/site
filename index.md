@@ -82,11 +82,12 @@ sections:
 
   - type: clients.html
     section_id: clientes
+    title: Clientes
     clients:
       - title: Volare
         icon: volare-logo.png
       - title: LPA UFSM
-        icon: lpa-logo.jpg
+        icon: lpa-logo.png
 
   - type: culture.html
     section_id: cultura
