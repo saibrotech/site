@@ -4,8 +4,12 @@
     @media (min-width: 992px) {
         margin: 20px auto 0;
     }
+    h4 {
+    min-height: 60px;    
+    }
     p {
         margin-bottom: 0;
+        min-height: 48px;
     }
     img {
       width: 80%;

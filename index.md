@@ -105,6 +105,7 @@ sections:
     members:
       - title: Andre Porto Leal Piantino
         text: Líder Técnico
+        subtext: Tenista de final de semana
         image: assets/img/members/andre.jpg
         icon_linkedin: fa-linkedin
         icon_type: fab
@@ -114,6 +115,7 @@ sections:
         url_github: https://github.com/piantino
       - title: Fernanda Kuhnen Hermenegildo
         text: Desenvolvedora
+        subtext: Tenista hiperativa
         image: assets/img/members/fernanda.jpg
         icon_linkedin: fa-linkedin
         icon_type: fab
@@ -123,6 +125,7 @@ sections:
         url_github: 'https://github.com/fekuhnen'
       - title: Gustavo Lucas Valente
         text: Designer e Desenvolvedor Front-end
+        subtext: Tenista de Wii Sports
         image: assets/img/members/gustavo.jpg
         icon_linkedin: fa-linkedin
         icon_type: fab
@@ -132,6 +135,7 @@ sections:
         url_github: 'https://github.com/gutivalente'
       - title: Nicole Buitoni
         text: Desenvolvedora
+        subtext: Tenista organizada
         image: assets/img/members/nicole.jpg
         icon_linkedin: fa-linkedin
         icon_type: fab
