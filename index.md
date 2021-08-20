@@ -170,7 +170,7 @@ sections:
     actions:
     - title: E-Mail
       icon: fa-envelope
-      url: mailto://financeiro@saibro.tech
+      url: mailto://hi@saibro.tech
     - title: Linkedin
       icon: fa-linkedin
       icon_type: fab
