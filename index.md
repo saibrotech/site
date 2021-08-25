@@ -1,49 +1,47 @@
 ---
 layout: home
 header:
-  title: Desenvolvemos softwares personalizados utilizando metodologias ágeis
-  text: >
-    Além de jogar tênis nas horas vagas!
+  title: home.title
+  text: home.text
   action: # action button is optional
-    label: Saiba Mais
-    url: '#sobre'
-
+    label: home.action.label
+    url: '#about'
 
 sections:
   - type: call-to-action.html
-    section_id: sobre
+    section_id: about
     background_style: bg-primary
-    title: Construímos a solução que você precisa!
-    text: Nós nos mantemos atualizados e buscamos realizar entregas que proporcionem um excelente desempenho para os usuários! Somos uma equipe que fica feliz com o sucesso de nossos clientes. 
+    title: call_to_action.title
+    text: call_to_action.text 
     actions:
-      - title: O que desenvolvemos
-        url: '#servicos'
+      - title: call_to_action.actions.what_we_develop.title
+        url: '#services'
         class: btn-light
 
   - type: services.html
-    section_id: servicos
+    section_id: services
     #background_style: bg-info
-    title: Serviços
+    title: services.title
     services:
-      - title: Front-end
-        text: Interfaces ricas com Angular.
+      - title: services.service_list.frontend.title
+        text: services.service_list.frontend.text
         icon: fa-angular
-      - title: Back-end
-        text: Python com DJango e Java com Spring e EE.
+      - title: services.service_list.backend.title
+        text: services.service_list.backend.text
         icon: fa-python
-      - title: Protótipos
-        text: De alta ou baixa fidelidade com Figma.
+      - title: services.service_list.prototypes.title
+        text: services.service_list.prototypes.text
         icon: fa-figma
-      - title: Design
-        text: Criação de logotipos e interfaces.
+      - title: services.service_list.design.title
+        text: services.service_list.design.text
         icon: fa-pencil-ruler
         icon_type: fas
-      - title: Internacionalização
-        text: I18n de softwares para inglês, português, espanhol e italiano.
+      - title: services.service_list.i18n.title
+        text: services.service_list.i18n.text
         icon: fa-globe
         icon_type: fas
-      - title: Automatização
-        text: Testes e DevOps.
+      - title: services.service_list.automation.title
+        text: services.service_list.automation.text
         icon: fa-robot
         icon_type: fas
 
@@ -51,24 +49,24 @@ sections:
     # this section has always ID 'portfolio'
     #section_id: portfolio
     #background_style: bg-dark
-    title: Portfólio
+    title: portfolio.title
     projects:
-      - title: Codex Architectus
-        text: Repositório de códigos para arquitetura.
+      - title: portfolio.projects.codexarch.title
+        text: portfolio.projects.codexarch.text
         icon: codexarch.jpg
         url: '#'
-      - title: Percepção de Espaços Públicos
-        text: Site de pesquisa na área de arquitetura.
+      - title: portfolio.projects.lpa.title
+        text: portfolio.projects.lpa.text
         icon: lpa.jpg
         url: '#'
-      - title: Mitra Fiber Design
-        text: Rede de fibra ótica.
+      - title: portfolio.projects.mitra.title
+        text: portfolio.projects.mitra.text
         icon: mitra.jpg
         url: '#'
 
   - type: clients.html
-    section_id: clientes
-    title: Clientes
+    section_id: clients
+    title: clients.title
     clients:
       - title: Volare
         icon: volare-logo.png
@@ -76,36 +74,28 @@ sections:
         icon: lpa-logo.png
 
   - type: culture.html
-    section_id: cultura
+    section_id: culture
     background_style: bg-dark text-white
-    title: Nossa cultura
+    title: culture.title
     items:
-      - title: Quem somos
-        text: Agregamos valor em negócios utilizando tecnologia como meio.
+      - title: culture.items.who_we_are.title
+        text: culture.items.who_we_are.text
         icon: quem-somos.jpg
-      - title: Como trabalhamos
-        text: Através da mentalidade ágil, tomamos decisões em conjunto e buscando aumentar o rendimento da equipe.
+      - title: culture.items.how_we_work.title
+        text: culture.items.how_we_work.text
         icon: como-trabalhamos.jpg
-      - title: Modelo de trabalho
-        text: Valorizamos relações não-tóxicas, organização, discussão de metas, reunião diária, revisão de código e retrospectivas.
+      - title: culture.items.working_model.title
+        text: culture.items.working_model.text
         icon: modelo-de-trabalho.jpg
 
-  # - type: aside.html
-  #   section_id: aside
-  #   title: Free Download at Start Bootstrap!
-  #   actions:
-  #     - title: Download Now!
-  #       url: https://startbootstrap.com/themes/creative/
-  #       class: btn-light
-
   - type: members.html
-    section_id: membros
-    title: Nossa Equipe!
+    section_id: members
+    title: members.title
     background_style: bg-info text-white
     members:
       - title: Andre Porto Leal Piantino
-        text: Líder Técnico
-        subtext: Tenista de final de semana
+        text: members.member_list.andre.text
+        subtext: members.member_list.andre.subtext
         image: assets/img/members/andre.jpg
         icon_linkedin: fa-linkedin
         icon_type: fab
@@ -114,8 +104,8 @@ sections:
         icon_type: fab
         url_github: https://github.com/piantino
       - title: Fernanda Kuhnen Hermenegildo
-        text: Desenvolvedora
-        subtext: Tenista hiperativa
+        text: members.member_list.fernanda.text
+        subtext: members.member_list.fernanda.subtext
         image: assets/img/members/fernanda.jpg
         icon_linkedin: fa-linkedin
         icon_type: fab
@@ -124,8 +114,8 @@ sections:
         icon_type: fab
         url_github: 'https://github.com/fekuhnen'
       - title: Gustavo Lucas Valente
-        text: Designer e Desenvolvedor Front-end
-        subtext: Tenista de Wii Sports
+        text: members.member_list.gustavo.text
+        subtext: members.member_list.gustavo.subtext
         image: assets/img/members/gustavo.jpg
         icon_linkedin: fa-linkedin
         icon_type: fab
@@ -134,8 +124,8 @@ sections:
         icon_type: fab
         url_github: 'https://github.com/gutivalente'
       - title: Nicole Buitoni
-        text: Desenvolvedora
-        subtext: Tenista organizada
+        text: members.member_list.nicole.text
+        subtext: members.member_list.nicole.subtext
         image: assets/img/members/nicole.jpg
         icon_linkedin: fa-linkedin
         icon_type: fab
@@ -166,11 +156,9 @@ sections:
   #         and future plans to them. As a result , interested people joined us!
 
   - type: contact.html
-
-    section_id: contatos
-    title: Nossos contatos!
-    text: >-
-      Quer começar o seu projeto conosco? Nos envie um e-mail ou entre em contato através das nossas redes sociais.
+    section_id: contact
+    title: contact.title
+    text: contact.text
     actions:
     - title: E-Mail
       icon: fa-envelope

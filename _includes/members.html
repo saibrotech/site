@@ -1,6 +1,6 @@
 <section class="page-section {{ section.background_style }}" id="{{ section.section_id }}">
   <div class="container">
-    <h2 class="text-center mt-0">{{ section.title }}</h2>
+    <h2 class="text-center mt-0">{% t section.title %}</h2>
     <hr class="divider my-4">
     <div class="row justify-content-center">
       {% for member in section.members %}
@@ -9,12 +9,12 @@
         <div class="member-box">
           <img class="fa fa-4x text-primary" src="{{ member.image }}" alt="{{ member.title }}">
           <h4 class="mb-2">{{ member.title }}</h4>
-          <p class="text-white-75 mb-0">{{ member.text }}</p>
+          <p class="text-white-75 mb-0">{% t member.text %}</p>
           <a href="{{ member.url_linkedin }}" target="_blank"><i
               class="{{fa}} {{member.icon_linkedin}} fa-2x mt-2 text-white"></i></a>
           <a href="{{ member.url_github }}" target="_blank"><i
               class="{{fa}} {{member.icon_github}} fa-2x mt-2 text-white"></i></a>
-          <p class="text-white-75 text-monospace mb-0">"{{ member.subtext }}"</p>
+          <p class="text-white-75 text-monospace mb-0">"{% t member.subtext %}"</p>
         </div>
       </div>
       {% endfor %}

@@ -3,14 +3,16 @@
 # However on github-pages custom plugins are disabled, and the script doesn't
 # run. So please, fill in any custom menu entry here.
 header:
-- title: Sobre
-  url: /#sobre
-- title: Serviços
-  url: /#servicos
-- title: Cultura
-  url: /#cultura
-- title: Membros
-  url: /#membros
-- title: Contatos
-  url: /#contatos
-
+- title: nav.about
+  url: /#about
+- title: nav.services
+  url: /#services
+- title: nav.culture
+  url: /#culture
+- title: nav.members
+  url: /#members
+- title: nav.contact
+  url: /#contact
+language:
+  title: nav.language
+  url: nav.language_url
