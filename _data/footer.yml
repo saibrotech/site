@@ -1,4 +1,5 @@
-copyright: '&copy; Start Bootstrap'
+copyright: '&copy; SaibroTech'
+address: footer.address
 links:
   - text: Creative
     url: 'https://startbootstrap.com/themes/creative/'

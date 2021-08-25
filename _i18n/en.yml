@@ -1,0 +1,97 @@
+nav:
+  about: About
+  services: Services
+  culture: Culture
+  members: Members
+  contact: Contact
+  language: Language (en)
+  language_url: /
+
+home: 
+  title: We develop personalized software using agile methodologies
+  text: >
+    Aside from playing tennis in our spare time!
+  action:
+    label: Learn more
+
+call_to_action: 
+  title: We build the solution you need!
+  text: We keep ourselves up to date and strive to deliver content that provide excellent performance for our users! Our team is happy with our customers' success.
+  actions:
+    what_we_develop:
+      title: What we develop
+
+services: 
+  title: Services
+  service_list:
+    frontend:
+      title: Front-end
+      text: Rich interfaces with Angular.
+    backend:
+      title: Back-end
+      text: Python with DJango and Java with Spring and EE.
+    prototypes:
+      title: Prototypes
+      text: Low or high fidelity with Figma.
+    design:
+      title: Design
+      text: Logo and interface creation.
+    i18n:
+      title: Internationalization
+      text: Software i18n to english, portuguese, spanish and italian.
+    automation:
+      title: Automation
+      text: Tests and DevOps.
+    
+portfolio:
+  title: Portfolio
+  projects:
+    codexarch:
+      title: Codex Architectus
+      text: Code repository for architecture.
+    lpa:
+      title: Percepção de Espaços Públicos
+      text: Research site in the architecture field.
+    mitra:
+      title: Mitra Fiber Design
+      text: Fiber optic network.
+
+clients:
+  title: Clients
+
+culture:
+  title: Our culture
+  items:
+    who_we_are:
+      title: Who we are
+      text: We add value in business using technology as a means.
+    how_we_work:
+      title: How we work
+      text: Through the agile mindset, we make decisions together and seek to increase the team's performance.
+    working_model:
+      title: Working model
+      text: We value non-toxic relationships, organization, goal discussion, daily meeting, code review, and retrospectives.
+
+members:
+  title: Our team!
+  member_list:
+    andre:
+      text: Technical Leader
+      subtext: Weekend Tennis Player
+    fernanda:
+      text: Developer
+      subtext: Hyperactive Tennis Player
+    gustavo:
+      text: Designer and Front-end Developer
+      subtext: Wii Sports Tennis Player
+    nicole:
+      text: Developer
+      subtext: Organized Tennis Player
+
+contact:
+  title: Our contact
+  text: >-
+      Want to start your project with us? Send us an e-mail or contact us through our social networks.
+
+footer:
+  address: Florianopolis SC Brazil

@@ -11,9 +11,12 @@
       <ul class="navbar-nav ml-auto my-2 my-lg-0">
         {% for item in site.data.menus.header  %}
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+            <a class="nav-link js-scroll-trigger" href="{{ item.url | relative_url }}">{% t item.title %}</a>
           </li>
         {% endfor %}
+        <li class="nav-item">
+          <a class="nav-link" href="{{ site.baseurl_root }}{% t site.data.menus.language.url %}">{% t site.data.menus.language.title %}</a>
+        </li>
       </ul>
     </div>
   </div>

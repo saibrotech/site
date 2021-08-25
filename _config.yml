@@ -4,7 +4,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://www.saibro.tech" # the base hostname & protocol for your site
 author: Copyright &copy; 2021 - SaibroTech
-lang: pt_BR
+languages: ["pt_BR", "en"]
 
 # Build settings
 safe: true # always trues on github-pages, disables _plugins/
@@ -16,6 +16,7 @@ sass:
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-multiple-languages-plugin
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -23,3 +24,4 @@ exclude:
   - README.md
   - vendor
   - .github
+exclude_from_localizations: []

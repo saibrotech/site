@@ -1,0 +1,97 @@
+nav:
+  about: Sobre
+  services: Serviços
+  culture: Cultura
+  members: Membros
+  contact: Contato
+  language: Idioma (pt-BR)
+  language_url: /en
+
+home: 
+  title: Desenvolvemos softwares personalizados utilizando metodologias ágeis
+  text: >
+    Além de jogar tênis nas horas vagas!
+  action:
+    label: Saiba mais
+
+call_to_action: 
+  title: Construímos a solução que você precisa!
+  text: Nós nos mantemos atualizados e buscamos realizar entregas que proporcionem um excelente desempenho para os usuários! Somos uma equipe que fica feliz com o sucesso de nossos clientes.
+  actions:
+    what_we_develop:
+      title: O que desenvolvemos
+
+services: 
+  title: Serviços
+  service_list:
+    frontend:
+      title: Front-end
+      text: Interfaces ricas com Angular.
+    backend:
+      title: Back-end
+      text: Python com DJango e Java com Spring e EE.
+    prototypes:
+      title: Protótipos
+      text: De alta ou baixa fidelidade com Figma.
+    design:
+      title: Design
+      text: Criação de logos e interfaces.
+    i18n:
+      title: Internacionalização
+      text: I18n de softwares para inglês, português, espanhol e italiano.
+    automation:
+      title: Automatização
+      text: Testes e DevOps.
+    
+portfolio:
+  title: Portfólio
+  projects:
+    codexarch:
+      title: Codex Architectus
+      text: Repositório de códigos para arquitetura.
+    lpa:
+      title: Percepção de Espaços Públicos
+      text: Site de pesquisa na área de arquitetura.
+    mitra:
+      title: Mitra Fiber Design
+      text: Rede de fibra ótica.
+
+clients:
+  title: Clientes
+
+culture:
+  title: Nossa cultura
+  items:
+    who_we_are:
+      title: Quem somos
+      text: Agregamos valor em negócios utilizando tecnologia como meio.
+    how_we_work:
+      title: Como trabalhamos
+      text: Através da mentalidade ágil, tomamos decisões em conjunto e buscamos aumentar o rendimento da equipe.
+    working_model:
+      title: Modelo de trabalho
+      text: Valorizamos relações não-tóxicas, organização, discussão de metas, reunião diária, revisão de código e retrospectivas.
+
+members:
+  title: Nossa Equipe!
+  member_list:
+    andre:
+      text: Líder Técnico
+      subtext: Tenista de Final de Semana
+    fernanda:
+      text: Desenvolvedora
+      subtext: Tenista Hiperativa
+    gustavo:
+      text: Designer e Desenvolvedor Front-end
+      subtext: Tenista de Wii Sports
+    nicole:
+      text: Desenvolvedora
+      subtext: Tenista Organizada
+
+contact:
+  title: Nossos contatos
+  text: >-
+      Quer começar o seu projeto conosco? Envie-nos um e-mail ou entre em contato através das nossas redes sociais.
+
+footer:
+  address: Florianópolis - SC, Brasil
