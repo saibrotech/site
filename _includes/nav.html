@@ -9,14 +9,17 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarResponsive">
       <ul class="navbar-nav ml-auto my-2 my-lg-0">
+        <li class="nav-item language-toogle">
+          <div class="btn-group btn-group-sm" role="group">
+            <a type="button" href="/en" class="btn btn-outline-dark {% if site.lang == 'en' %} active {% endif %}">en</a>
+            <a type="button" href="/" class="btn btn-outline-dark {% if site.lang == 'pt_BR' %} active {% endif %}">pt</a>
+          </div>
+        </li>
         {% for item in site.data.menus.header  %}
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="{{ item.url | relative_url }}">{% t item.title %}</a>
           </li>
         {% endfor %}
-        <li class="nav-item">
-          <a class="nav-link" href="{{ site.baseurl_root }}{% t site.data.menus.language.url %}">{% t site.data.menus.language.title %}</a>
-        </li>
       </ul>
     </div>
   </div>

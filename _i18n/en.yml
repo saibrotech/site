@@ -4,8 +4,6 @@ nav:
   culture: Culture
   members: Members
   contact: Contact
-  language: Language (en)
-  language_url: /
 
 home: 
   title: We develop personalized software using agile methodologies
@@ -16,7 +14,7 @@ home:
 
 call_to_action: 
   title: We build the solution you need!
-  text: We keep ourselves up to date and strive to deliver content that provide excellent performance for our users! Our team is happy with our customers' success.
+  text: We keep ourselves up to date and strive to deliver content that provide excellent performance for our users! Our team is happy with our customer's success.
   actions:
     what_we_develop:
       title: What we develop
