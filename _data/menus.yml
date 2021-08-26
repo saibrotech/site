@@ -13,6 +13,3 @@ header:
   url: /#members
 - title: nav.contact
   url: /#contact
-language:
-  title: nav.language
-  url: nav.language_url
