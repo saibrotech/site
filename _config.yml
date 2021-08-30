@@ -1,10 +1,11 @@
 # Site settings
 title: SaibroTech
-description: > # this means to ignore newlines until "baseurl:"
+description: >- # this means to ignore newlines until "baseurl:"
+  site.description
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://www.saibro.tech" # the base hostname & protocol for your site
 author: Copyright &copy; 2021 - SaibroTech
-languages: ["pt_BR", "en"]
+languages: ["pt-BR", "en"]
 
 # Build settings
 safe: true # always trues on github-pages, disables _plugins/

@@ -1,4 +1,11 @@
+site:
+  description: Software development
+
 nav:
+  language:
+    label: Language select
+    en: English
+    pt: Portuguese
   about: About
   services: Services
   culture: Culture
