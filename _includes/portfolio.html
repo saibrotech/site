@@ -5,8 +5,10 @@
     <div class="row no-gutters">
       {% for proj in section.projects %}
       <div class="col-lg-4 col-sm-6">
-        <a class="portfolio-box" href="assets/img/portfolio/fullsize/{{ proj.icon }}">
-          <img class="img-fluid" src="assets/img/portfolio/thumbnails/{{ proj.icon }}" alt="">
+        <a class="portfolio-box" href="assets/img/portfolio/fullsize/{{ proj.icon }}"
+          alt="{% t proj.title %}. {% t proj.text %}">
+          <img class="img-fluid" src="assets/img/portfolio/thumbnails/{{ proj.icon }}"
+            alt="{% t proj.title %}. {% t proj.text %}">
           <div class="portfolio-box-caption">
             <div class="project-category text-white-75">
               {% t proj.title %}
