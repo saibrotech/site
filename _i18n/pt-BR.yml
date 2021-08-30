@@ -1,4 +1,11 @@
+site:
+  description: Desenvolvimento de software
+
 nav:
+  language:
+    label: Seleção de idioma
+    en: Inglês
+    pt: Português
   about: Sobre
   services: Serviços
   culture: Cultura
