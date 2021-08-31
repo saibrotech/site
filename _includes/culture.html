@@ -6,7 +6,7 @@
       {% for item in section.items %}
       <div class="col-lg-4 col-sm-6">
         <a class="portfolio-box">
-          <img class="img-fluid" src="assets/img/culture/{{ item.icon }}" alt="">
+          <img class="img-fluid" src="assets/img/culture/{{ item.icon }}" alt="{% t item.img_alt %}">
           <div class="portfolio-box-caption">
             <div class="project-category text-white-75">
               {% t item.title %}

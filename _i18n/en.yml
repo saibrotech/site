@@ -63,6 +63,11 @@ portfolio:
 
 clients:
   title: Clients
+  client_list:
+    volare:
+      img_alt: Volare's logo
+    lpa:
+      img_alt: LPA's logo
 
 culture:
   title: Our culture
@@ -70,12 +75,15 @@ culture:
     who_we_are:
       title: Who we are
       text: We add value in business using technology as a means.
+      img_alt: Tennis player group
     how_we_work:
       title: How we work
       text: Through the agile mindset, we make decisions together and seek to increase the team's performance.
+      img_alt: Tennis player on court
     working_model:
       title: Working model
       text: We value non-toxic relationships, organization, goal discussion, daily meeting, code review, and retrospectives.
+      img_alt: Sneakers, tennis balls and rackets
 
 members:
   title: Our team!
