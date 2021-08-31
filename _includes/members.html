@@ -12,10 +12,9 @@
           <p class="text-white-75 mb-0">{% t member.text %}</p>
           <a href="{{ member.url_linkedin }}" target="_blank"><i
               class="{{fa}} {{member.icon_linkedin}} fa-2x mt-2 text-white"
-              aria-label="LinkedIn de {{ member.title }}"></i></a>
+              aria-label="{% t member.linkedin %}"></i></a>
           <a href="{{ member.url_github }}" target="_blank"><i
-              class="{{fa}} {{member.icon_github}} fa-2x mt-2 text-white"
-              aria-label="GitHub de {{ member.title }}"></i></a>
+              class="{{fa}} {{member.icon_github}} fa-2x mt-2 text-white" aria-label="{% t member.github %}"></i></a>
           <p class="text-white-75 text-monospace mb-0">"{% t member.subtext %}"</p>
         </div>
       </div>
