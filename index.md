@@ -70,8 +70,10 @@ sections:
     clients:
       - title: Volare
         icon: volare-logo.png
+        img_alt: clients.client_list.volare.img_alt
       - title: LPA UFSM
         icon: lpa-logo.png
+        img_alt: clients.client_list.lpa.img_alt
 
   - type: culture.html
     section_id: culture
@@ -81,12 +83,15 @@ sections:
       - title: culture.items.who_we_are.title
         text: culture.items.who_we_are.text
         icon: quem-somos.jpg
+        img_alt: culture.items.who_we_are.img_alt
       - title: culture.items.how_we_work.title
         text: culture.items.how_we_work.text
         icon: como-trabalhamos.jpg
+        img_alt: culture.items.how_we_work.img_alt
       - title: culture.items.working_model.title
         text: culture.items.working_model.text
         icon: modelo-de-trabalho.jpg
+        img_alt: culture.items.working_model.img_alt
 
   - type: members.html
     section_id: members
@@ -99,48 +104,52 @@ sections:
         linkedin: members.member_list.andre.linkedin
         github: members.member_list.andre.github
         image: assets/img/members/andre.jpg
-        icon_linkedin: fa-linkedin
         icon_type: fab
-        url_linkedin: 'https://www.linkedin.com/in/andre-porto-leal-piantino/'
-        icon_github: fa-github
-        icon_type: fab
-        url_github: https://github.com/piantino
+        linkedin:
+          icon: fa-linkedin
+          url: 'https://www.linkedin.com/in/andre-porto-leal-piantino/'
+        github:
+          icon: fa-github
+          url: 'https://github.com/piantino'
       - title: Fernanda Kuhnen Hermenegildo
         text: members.member_list.fernanda.text
         subtext: members.member_list.fernanda.subtext
         linkedin: members.member_list.fernanda.linkedin
         github: members.member_list.fernanda.github
         image: assets/img/members/fernanda.jpg
-        icon_linkedin: fa-linkedin
         icon_type: fab
-        url_linkedin: 'https://www.linkedin.com/in/fernanda-kuhnen-hermenegildo-2747b4a1/'
-        icon_github: fa-github
-        icon_type: fab
-        url_github: 'https://github.com/fekuhnen'
+        linkedin:
+          icon: fa-linkedin
+          url: 'https://www.linkedin.com/in/fernanda-kuhnen-hermenegildo-2747b4a1/'
+        github:
+          icon: fa-github
+          url: 'https://github.com/fekuhnen'
       - title: Gustavo Lucas Valente
         text: members.member_list.gustavo.text
         subtext: members.member_list.gustavo.subtext
         linkedin: members.member_list.gustavo.linkedin
         github: members.member_list.gustavo.github
         image: assets/img/members/gustavo.jpg
-        icon_linkedin: fa-linkedin
         icon_type: fab
-        url_linkedin: 'https://www.linkedin.com/in/gutivalente/'
-        icon_github: fa-github
-        icon_type: fab
-        url_github: 'https://github.com/gutivalente'
+        linkedin:
+          icon: fa-github
+          url: 'https://www.linkedin.com/in/gutivalente/'
+        github:
+          icon: fa-github
+          url: 'https://github.com/gutivalente'
       - title: Nicole Buitoni
         text: members.member_list.nicole.text
         subtext: members.member_list.nicole.subtext
         linkedin: members.member_list.nicole.linkedin
         github: members.member_list.nicole.github
         image: assets/img/members/nicole.jpg
-        icon_linkedin: fa-linkedin
         icon_type: fab
-        url_linkedin: 'https://www.linkedin.com/in/nicole-buitoni/'
-        icon_github: fa-github
-        icon_type: fab
-        url_github: https://github.com/Nibuitoni
+        linkedin:
+          icon: fa-linkedin
+          url: 'https://www.linkedin.com/in/nicole-buitoni/'
+        github:
+          icon: fa-github
+          url: 'https://github.com/Nibuitoni'
 
   # - type: timeline.html
   #   section_id: historia

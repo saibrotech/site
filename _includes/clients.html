@@ -5,7 +5,7 @@
     <div class="row justify-content-center">
       {% for client in section.clients %}
       <div class="col-lg-3 col-md-6 client-content">
-        <img class="img-fluid" src="assets/img/clients/{{ client.icon }}" alt="">
+        <img class="img-fluid" src="assets/img/clients/{{ client.icon }}" alt="{% t client.img_alt %}">
       </div>
       {% endfor %}
     </div>

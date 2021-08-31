@@ -63,6 +63,11 @@ portfolio:
 
 clients:
   title: Clientes
+  client_list:
+    volare:
+      img_alt: Logo da Volare
+    lpa:
+      img_alt: Logo do LPA
 
 culture:
   title: Nossa cultura
@@ -70,12 +75,15 @@ culture:
     who_we_are:
       title: Quem somos
       text: Agregamos valor em negócios utilizando tecnologia como meio.
+      img_alt: Grupo de tenistas
     how_we_work:
       title: Como trabalhamos
       text: Através da mentalidade ágil, tomamos decisões em conjunto e buscamos aumentar o rendimento da equipe.
+      img_alt: Tenista na quadra
     working_model:
       title: Modelo de trabalho
       text: Valorizamos relações não-tóxicas, organização, discussão de metas, reunião diária, revisão de código e retrospectivas.
+      img_alt: Tênis, bolas de tênis e raquetes
 
 members:
   title: Nossa Equipe!
