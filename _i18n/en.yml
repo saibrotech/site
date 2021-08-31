@@ -76,15 +76,23 @@ members:
     andre:
       text: Technical Leader
       subtext: Weekend Tennis Player
+      linkedin: Andre Porto Leal Piantino's LinkedIn
+      github: Andre Porto Leal Piantino's GitHub
     fernanda:
       text: Developer
       subtext: Hyperactive Tennis Player
+      linkedin: Fernanda Kuhnen Hermenegildo's LinkedIn
+      github: Fernanda Kuhnen Hermenegildo's GitHub
     gustavo:
       text: Designer and Front-end Developer
       subtext: Wii Sports Tennis Player
+      linkedin: Gustavo Lucas Valente's LinkedIn 
+      github: Gustavo Lucas Valente's GitHub
     nicole:
       text: Developer
       subtext: Organized Tennis Player
+      linkedin: Nicole Buitoni's LinkedIn 
+      github: Nicole Buitoni's GitHub 
 
 contact:
   title: Our contact

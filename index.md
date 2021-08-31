@@ -96,6 +96,8 @@ sections:
       - title: Andre Porto Leal Piantino
         text: members.member_list.andre.text
         subtext: members.member_list.andre.subtext
+        linkedin: members.member_list.andre.linkedin
+        github: members.member_list.andre.github
         image: assets/img/members/andre.jpg
         icon_linkedin: fa-linkedin
         icon_type: fab
@@ -106,6 +108,8 @@ sections:
       - title: Fernanda Kuhnen Hermenegildo
         text: members.member_list.fernanda.text
         subtext: members.member_list.fernanda.subtext
+        linkedin: members.member_list.fernanda.linkedin
+        github: members.member_list.fernanda.github
         image: assets/img/members/fernanda.jpg
         icon_linkedin: fa-linkedin
         icon_type: fab
@@ -116,6 +120,8 @@ sections:
       - title: Gustavo Lucas Valente
         text: members.member_list.gustavo.text
         subtext: members.member_list.gustavo.subtext
+        linkedin: members.member_list.gustavo.linkedin
+        github: members.member_list.gustavo.github
         image: assets/img/members/gustavo.jpg
         icon_linkedin: fa-linkedin
         icon_type: fab
@@ -126,6 +132,8 @@ sections:
       - title: Nicole Buitoni
         text: members.member_list.nicole.text
         subtext: members.member_list.nicole.subtext
+        linkedin: members.member_list.nicole.linkedin
+        github: members.member_list.nicole.github
         image: assets/img/members/nicole.jpg
         icon_linkedin: fa-linkedin
         icon_type: fab

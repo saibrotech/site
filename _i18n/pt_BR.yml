@@ -76,15 +76,23 @@ members:
     andre:
       text: Líder Técnico
       subtext: Tenista de Final de Semana
+      linkedin: LinkedIn do Andre Porto Leal Piantino
+      github: GitHub do Andre Porto Leal Piantino 
     fernanda:
       text: Desenvolvedora
       subtext: Tenista Hiperativa
+      linkedin: LinkedIn da Fernanda Kuhnen Hermenegildo
+      github: GitHub da Fernanda Kuhnen Hermenegildo
     gustavo:
       text: Designer e Desenvolvedor Front-end
       subtext: Tenista de Wii Sports
+      linkedin: LinkedIn do Gustavo Lucas Valente
+      github: GitHub do Gustavo Lucas Valente
     nicole:
       text: Desenvolvedora
       subtext: Tenista Organizada
+      linkedin: LinkedIn da Nicole Buitoni
+      github: GitHub da Nicole Buitoni
 
 contact:
   title: Nossos contatos
