@@ -136,7 +136,7 @@ sections:
         image: assets/img/members/gustavo.jpg
         icon_type: fab
         linkedin:
-          icon: fa-github
+          icon: fa-linkedin
           url: 'https://www.linkedin.com/in/gutivalente/'
           label: members.member_list.gustavo.linkedin
         github:
