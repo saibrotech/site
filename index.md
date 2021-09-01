@@ -108,9 +108,11 @@ sections:
         linkedin:
           icon: fa-linkedin
           url: 'https://www.linkedin.com/in/andre-porto-leal-piantino/'
+          label: members.member_list.andre.linkedin
         github:
           icon: fa-github
           url: 'https://github.com/piantino'
+          label: members.member_list.andre.github
       - title: Fernanda Kuhnen Hermenegildo
         text: members.member_list.fernanda.text
         subtext: members.member_list.fernanda.subtext
@@ -121,9 +123,11 @@ sections:
         linkedin:
           icon: fa-linkedin
           url: 'https://www.linkedin.com/in/fernanda-kuhnen-hermenegildo-2747b4a1/'
+          label: members.member_list.fernanda.linkedin
         github:
           icon: fa-github
           url: 'https://github.com/fekuhnen'
+          label: members.member_list.fernanda.github
       - title: Gustavo Lucas Valente
         text: members.member_list.gustavo.text
         subtext: members.member_list.gustavo.subtext
@@ -134,9 +138,11 @@ sections:
         linkedin:
           icon: fa-github
           url: 'https://www.linkedin.com/in/gutivalente/'
+          label: members.member_list.gustavo.linkedin
         github:
           icon: fa-github
           url: 'https://github.com/gutivalente'
+          label: members.member_list.gustavo.github
       - title: Nicole Buitoni
         text: members.member_list.nicole.text
         subtext: members.member_list.nicole.subtext
@@ -147,9 +153,11 @@ sections:
         linkedin:
           icon: fa-linkedin
           url: 'https://www.linkedin.com/in/nicole-buitoni/'
+          label: members.member_list.nicole.linkedin
         github:
           icon: fa-github
           url: 'https://github.com/Nibuitoni'
+          label: members.member_list.nicole.github
 
   # - type: timeline.html
   #   section_id: historia
