@@ -286,6 +286,7 @@ DEPENDENCIES
   jekyll-multiple-languages-plugin
   jekyll-seo-tag (= 2.7.1)
   jekyll-sitemap (= 1.4.0)
+  wdm (>= 0.1.0)
   webrick (~> 1.7)
 
 BUNDLED WITH
