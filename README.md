@@ -21,6 +21,10 @@ saibro.tech court
 
 `bundle update`
 
+## Open Cypress
+
+`npm run cypress:open`
+
 # Creative Theme for Jekyll
 
 A Jekyll implementation of the [Creative Theme](https://startbootstrap.com/theme/creative/) template by [Start Bootstrap](https://startbootstrap.com).

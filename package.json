@@ -1,0 +1,26 @@
+{
+  "name": "site",
+  "version": "1.0.0",
+  "description": "site saibrotech",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saibrotech/site.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "nicole",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saibrotech/site/issues"
+  },
+  "homepage": "https://github.com/saibrotech/site#readme",
+  "devDependencies": {
+    "cypress": "^9.1.0"
+  }
+}
