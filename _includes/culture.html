@@ -5,9 +5,8 @@
     <div class="row no-gutters">
       {% for item in section.items %}
       <div class="col-lg-4 col-sm-6">
-        <a class="portfolio-box">
-          <img class="img-fluid" src="assets/img/culture/{{ item.icon }}"
-            alt="{% t item.img_alt %}" aria-hidden="true">
+        <div class="portfolio-box">
+          <img class="img-fluid" src="assets/img/culture/{{ item.icon }}" alt="{% t item.img_alt %}" aria-hidden="true">
           <div class="portfolio-box-caption">
             <div class="project-category text-white-75">
               {% t item.title %}
@@ -16,7 +15,7 @@
               {% t item.text %}
             </div>
           </div>
-        </a>
+        </div>
       </div>
       {% endfor %}
     </div>
