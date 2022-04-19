@@ -3,6 +3,14 @@ saibro.tech court
 
 
 # DEV
+
+If you want to use this template, or enhance it, you can use Docker.
+Just run './docker/dev/run.sh' or './docker/dev/bat.sh'and then point your browser to http://localhost:4000/.
+
+Note: Developing for github pages is tricky. You should alway rely on
+[safe plugins](https://pages.github.com/versions/) because any other, that's not
+in the list will simply not run.
+
 ## Dependencies
 
 `gem install bundler jekyll`
@@ -44,18 +52,3 @@ Creating a site with this particular Jekyll theme, is basically writing a markdo
 * "Who we are" background image by [Christian Tenguan](https://unsplash.com/@christiantenguan?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/tennis-team?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 * "How we work" background image by [hansmarkutt](https://pixabay.com/pt/users/hansmarkutt-6479460/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5782695) on [Pixabay](https://pixabay.com/pt/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5782695)
 * "Working model" background image by [marijana1](https://pixabay.com/pt/users/marijana1-8558212/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3554019) on [Pixabay](https://pixabay.com/pt/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3554019)
-
-# Development
-If you want to use this template, or enhance it, you can use Docker.
-Just run './build-in-docker.sh' and then point your browser to http://localhost:4000/.
-
-Note: Developing for github pages is tricky. You should alway rely on
-[safe plugins](https://pages.github.com/versions/) because any other, that's not
-in the list will simply not run.
-
-# Good Ideas
-* Contacts submit form example
-  * https://github.com/Codevelopr/codevelopr.github.io/
-  * https://jekyllrb.com/resources/#forms
-* Table of contents example
-  * https://github.com/fedenunez/fedenunez.github.io
