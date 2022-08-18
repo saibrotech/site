@@ -143,6 +143,21 @@ sections:
           icon: fa-github
           url: 'https://github.com/gutivalente'
           label: members.member_list.gustavo.github
+      - title: Marianne Costa Avalone
+        text: members.member_list.marianne.text
+        subtext: members.member_list.marianne.subtext
+        linkedin: members.member_list.marianne.linkedin
+        github: members.member_list.marianne.github
+        image: assets/img/members/marianne.jpg
+        icon_type: fab
+        linkedin:
+          icon: fa-linkedin
+          url: 'https://www.linkedin.com/in/mariannecosta/'
+          label: members.member_list.marianne.linkedin
+        github:
+          icon: fa-github
+          url: 'https://github.com/nanipumpkin'
+          label: members.member_list.marianne.github
       - title: Nicole Buitoni
         text: members.member_list.nicole.text
         subtext: members.member_list.nicole.subtext
