@@ -113,51 +113,6 @@ sections:
           icon: fa-github
           url: 'https://github.com/piantino'
           label: members.member_list.andre.github
-      - title: Fernanda Kuhnen Hermenegildo
-        text: members.member_list.fernanda.text
-        subtext: members.member_list.fernanda.subtext
-        linkedin: members.member_list.fernanda.linkedin
-        github: members.member_list.fernanda.github
-        image: assets/img/members/fernanda.jpg
-        icon_type: fab
-        linkedin:
-          icon: fa-linkedin
-          url: 'https://www.linkedin.com/in/fernanda-kuhnen-hermenegildo-2747b4a1/'
-          label: members.member_list.fernanda.linkedin
-        github:
-          icon: fa-github
-          url: 'https://github.com/fekuhnen'
-          label: members.member_list.fernanda.github
-      - title: Gustavo Lucas Valente
-        text: members.member_list.gustavo.text
-        subtext: members.member_list.gustavo.subtext
-        linkedin: members.member_list.gustavo.linkedin
-        github: members.member_list.gustavo.github
-        image: assets/img/members/gustavo.jpg
-        icon_type: fab
-        linkedin:
-          icon: fa-linkedin
-          url: 'https://www.linkedin.com/in/gutivalente/'
-          label: members.member_list.gustavo.linkedin
-        github:
-          icon: fa-github
-          url: 'https://github.com/gutivalente'
-          label: members.member_list.gustavo.github
-      - title: Marianne Costa Avalone
-        text: members.member_list.marianne.text
-        subtext: members.member_list.marianne.subtext
-        linkedin: members.member_list.marianne.linkedin
-        github: members.member_list.marianne.github
-        image: assets/img/members/marianne.jpg
-        icon_type: fab
-        linkedin:
-          icon: fa-linkedin
-          url: 'https://www.linkedin.com/in/mariannecosta/'
-          label: members.member_list.marianne.linkedin
-        github:
-          icon: fa-github
-          url: 'https://github.com/nanipumpkin'
-          label: members.member_list.marianne.github
       - title: Nicole Buitoni
         text: members.member_list.nicole.text
         subtext: members.member_list.nicole.subtext
@@ -173,6 +128,66 @@ sections:
           icon: fa-github
           url: 'https://github.com/Nibuitoni'
           label: members.member_list.nicole.github
+      - title: Gustavo Lucas Valente
+        text: members.member_list.gustavo.text
+        subtext: members.member_list.gustavo.subtext
+        linkedin: members.member_list.gustavo.linkedin
+        github: members.member_list.gustavo.github
+        image: assets/img/members/gustavo.jpg
+        icon_type: fab
+        linkedin:
+          icon: fa-linkedin
+          url: 'https://www.linkedin.com/in/gutivalente/'
+          label: members.member_list.gustavo.linkedin
+        github:
+          icon: fa-github
+          url: 'https://github.com/gutivalente'
+          label: members.member_list.gustavo.github
+      - title: André Buitoni
+        text: members.member_list.andreb.text
+        subtext: members.member_list.andreb.subtext
+        linkedin: members.member_list.andreb.linkedin
+        github: members.member_list.andreb.github
+        image: assets/img/members/andreb.jpg
+        icon_type: fab
+        linkedin:
+          icon: fa-linkedin
+          url: 'https://www.linkedin.com/in/andre-buitoni/'
+          label: members.member_list.andreb.linkedin
+        github:
+          icon: fa-github
+          url: 'https://github.com/andrebuitoni'
+          label: members.member_list.andreb.github
+      - title: Paula Buitoni
+        text: members.member_list.paula.text
+        subtext: members.member_list.paula.subtext
+        linkedin: members.member_list.paula.linkedin
+        github: members.member_list.paula.github
+        image: assets/img/members/paula.jpg
+        icon_type: fab
+        linkedin:
+          icon: fa-linkedin
+          url: 'https://www.linkedin.com/in/paula-buitoni/'
+          label: members.member_list.paula.linkedin
+        github:
+          icon: fa-github
+          url: 'https://github.com/paulabuitoni'
+          label: members.member_list.paula.github
+      - title: Nill Junior
+        text: members.member_list.nill.text
+        subtext: members.member_list.nill.subtext
+        linkedin: members.member_list.nill.linkedin
+        github: members.member_list.nill.github
+        image: assets/img/members/nill.jpg
+        icon_type: fab
+        linkedin:
+          icon: fa-linkedin
+          url: 'https://www.linkedin.com/in/nill-junior/'
+          label: members.member_list.nill.linkedin
+        github:
+          icon: fa-github
+          url: 'https://github.com/nilljr'
+          label: members.member_list.nill.github
 
   # - type: timeline.html
   #   section_id: historia

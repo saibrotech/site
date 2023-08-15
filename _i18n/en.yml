@@ -93,27 +93,31 @@ members:
       subtext: Weekend Tennis Player
       linkedin: Andre Porto Leal Piantino's LinkedIn
       github: Andre Porto Leal Piantino's GitHub
-    fernanda:
-      text: Developer
-      subtext: Hyperactive Tennis Player
-      linkedin: Fernanda Kuhnen Hermenegildo's LinkedIn
-      github: Fernanda Kuhnen Hermenegildo's GitHub
     gustavo:
       text: Designer and Front-end Developer
       subtext: Wii Sports Tennis Player
       linkedin: Gustavo Lucas Valente's LinkedIn 
       github: Gustavo Lucas Valente's GitHub
-    marianne:
-      text: Apprentice Programmer
-      subtext: Casual Table Tennis Player
-      linkedin: Marianne Avalone's LinkedIn 
-      github: Marianne Avalone's GitHub 
     nicole:
       text: Developer
-      subtext: Organized Tennis Player
+      subtext: Fearless Tennis Player
       linkedin: Nicole Buitoni's LinkedIn 
-      github: Nicole Buitoni's GitHub 
-
+      github: Nicole Buitoni's GitHub
+    andreb:
+      text: Junior Front-end Developer
+      subtext: Retired Tennis Player
+      linkedin: André Buitoni's LinkedIn
+      github: André Buitoni's GitHub
+    paula:
+      text: Junior Front-end Developer
+      subtext: Offline Tennis Player
+      linkedin: Paula Buitoni's LinkedIn
+      github: Paula Buitoni's GitHub
+    nill:
+      text: Junior Developer
+      subtext: Table Tennis Player
+      linkedin: Nill Junior's LinkedIn 
+      github: Nill Junior's GitHub
 contact:
   title: Our contact
   text: >-

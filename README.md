@@ -1,11 +1,11 @@
 # site
-saibro.tech court
+https://saibrotech.github.io/ court
 
 
 # DEV
 
 If you want to use this template, or enhance it, you can use Docker.
-Just run './docker/dev/run.sh' or './docker/dev/bat.sh'and then point your browser to http://localhost:4000/.
+Just run './docker/dev/run.sh' or './docker/dev/run.bat'and then point your browser to http://localhost:4000/.
 
 Note: Developing for github pages is tricky. You should alway rely on
 [safe plugins](https://pages.github.com/versions/) because any other, that's not

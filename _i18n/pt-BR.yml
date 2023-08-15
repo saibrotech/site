@@ -93,26 +93,31 @@ members:
       subtext: Tenista de Final de Semana
       linkedin: LinkedIn do Andre Porto Leal Piantino
       github: GitHub do Andre Porto Leal Piantino 
-    fernanda:
-      text: Desenvolvedora
-      subtext: Tenista Hiperativa
-      linkedin: LinkedIn da Fernanda Kuhnen Hermenegildo
-      github: GitHub da Fernanda Kuhnen Hermenegildo
     gustavo:
       text: Designer e Desenvolvedor Front-end
       subtext: Tenista de Wii Sports
       linkedin: LinkedIn do Gustavo Lucas Valente
       github: GitHub do Gustavo Lucas Valente
-    marianne:
-      text: Aprendiz de Programação
-      subtext: Tenista de Mesa
-      linkedin: LinkedIn da Marianne Avalone
-      github: GitHub da Marianne Avalone
     nicole:
       text: Desenvolvedora
-      subtext: Tenista Organizada
+      subtext: Tenista Destemida
       linkedin: LinkedIn da Nicole Buitoni
       github: GitHub da Nicole Buitoni
+    andreb:
+      text: Programador Front-end Júnior
+      subtext: Tenista Aposentado
+      linkedin: LinkedIn do André Buitoni
+      github: GitHub do André Buitoni
+    paula:
+      text: Programadora Front-end Júnior
+      subtext: Tenista offline
+      linkedin: LinkedIn da Paula Buitoni
+      github: GitHub da Paula Buitoni
+    nill:
+      text: Programador Júnior
+      subtext: Tenista de mesa
+      linkedin: LinkedIn do Nill Junior
+      github: GitHub do Nill Junior
 
 contact:
   title: Nossos contatos
