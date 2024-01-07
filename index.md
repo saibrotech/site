@@ -113,36 +113,6 @@ sections:
           icon: fa-github
           url: 'https://github.com/piantino'
           label: members.member_list.andre.github
-      - title: Nicole Buitoni
-        text: members.member_list.nicole.text
-        subtext: members.member_list.nicole.subtext
-        linkedin: members.member_list.nicole.linkedin
-        github: members.member_list.nicole.github
-        image: assets/img/members/nicole.jpg
-        icon_type: fab
-        linkedin:
-          icon: fa-linkedin
-          url: 'https://www.linkedin.com/in/nicole-buitoni/'
-          label: members.member_list.nicole.linkedin
-        github:
-          icon: fa-github
-          url: 'https://github.com/Nibuitoni'
-          label: members.member_list.nicole.github
-      - title: Gustavo Lucas Valente
-        text: members.member_list.gustavo.text
-        subtext: members.member_list.gustavo.subtext
-        linkedin: members.member_list.gustavo.linkedin
-        github: members.member_list.gustavo.github
-        image: assets/img/members/gustavo.jpg
-        icon_type: fab
-        linkedin:
-          icon: fa-linkedin
-          url: 'https://www.linkedin.com/in/gutivalente/'
-          label: members.member_list.gustavo.linkedin
-        github:
-          icon: fa-github
-          url: 'https://github.com/gutivalente'
-          label: members.member_list.gustavo.github
       - title: André Buitoni
         text: members.member_list.andreb.text
         subtext: members.member_list.andreb.subtext
